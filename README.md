@@ -1,9 +1,10 @@
 # Desarrollada por:
 Alexander Contreras Trejo
 
-# Mi Increíble Aplicación Flutter
+# Mi aplicación de flutter
 
-¡Bienvenido a mi aplicación Flutter!
+¡Bienvenido a mi aplicación Flutter! Se ira desarrollando a lo largo
+del semestre.
 
 ## Descripción
 
