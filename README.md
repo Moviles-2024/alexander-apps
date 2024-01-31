@@ -1,3 +1,6 @@
+# Desarrollada por:
+Alexander Contreras Trejo
+
 # Mi Increíble Aplicación Flutter
 
 ¡Bienvenido a mi aplicación Flutter!
